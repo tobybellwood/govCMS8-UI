@@ -46,6 +46,6 @@
     "gulp-util": "^3.0.8",
     "gulp-w3c-html-validation": "0.0.1",
     "jshint": "^2.9.5",
-    "postcss-import": "^11.0.0"
+    "postcss-import": "^11.1.0"
   }
 }
