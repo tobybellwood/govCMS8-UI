@@ -24,7 +24,7 @@
     "build": "bash build/update_uikit_bootstrap.sh"
   },
   "devDependencies": {
-    "autoprefixer": "^7.2.5",
+    "autoprefixer": "^8.2.0",
     "browser-sync": "^2.23.5",
     "cssnano": "^3.10.0",
     "fs": "0.0.1-security",
